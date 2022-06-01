@@ -1,6 +1,6 @@
 ### 1. Data collection
 
-### 3. Pre-processing 
+### 2. Pre-processing 
     a. missing value handling
     b. outlier detection and handling 
     c. encoding
@@ -8,7 +8,7 @@
     e. standardization/normalization
     f. feature engineering
 
-### 2. Exploratory Data Analysis
+### 3. Exploratory Data Analysis
     a. univariate analysis
     b. bivariate analysis
 
