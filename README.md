@@ -1,4 +1,4 @@
-### 1. Data collection - done
+### 1. Data collection
 
 ### 3. Pre-processing 
     a. missing value handling
